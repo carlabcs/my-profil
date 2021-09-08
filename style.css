@@ -1,0 +1,68 @@
+/* Colors and fonts */
+
+title {
+	background-color: #FDD2BF ;
+	color: #00A19D;
+}
+
+
+
+h1 {
+	color: #3D087B;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+
+	width: 300px;
+	margin: 0px auto;
+}
+
+h2 {
+	color: #3D087B;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+
+h3 {
+	color: #A12568;
+}
+
+p {
+	color: #E63E6D;
+}
+
+.img-circle {
+	border-radius: 50% ;
+}
+
+.underline {
+	text-decoration: purple underline;
+}
+
+body { 
+		background-color: #FCD8D4 ;
+		font-family : helvetica ;
+		color: ;
+		font-size: ; 
+		line-height: ;
+}
+
+
+.card {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+	padding: 20px;
+
+}
+
+.card-red {
+	background-color: F0D9FF ;
+	padding: 90px ;
+	margin: 70px 0 ;
+	border-radius: 100px ;
+	box-shadow: 10px 35px 20px rgba(0, 0, 0, 1.0);
+}
+
+	
